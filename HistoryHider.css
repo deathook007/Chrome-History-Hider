@@ -1,0 +1,8 @@
+body {
+    background-image: url("image/Cover.gif");
+	background-size: cover;
+	background-position: center;
+	padding: 20rem;
+	height: 100%;
+
+}
