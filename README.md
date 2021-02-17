@@ -1,4 +1,4 @@
-# History Hider 
+# History Hider 🔥
 
 A simple and very effective extension to hide your personal history without using incognito mode.
 
